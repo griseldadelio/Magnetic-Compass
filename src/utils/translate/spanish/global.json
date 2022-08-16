@@ -1,0 +1,85 @@
+{
+  "navbar": {
+    "Services": "Servicios",
+    "About Us": "Nosotros",
+    "Contact": "Contacto",
+    "Language": "Idioma"
+  },
+  "carrousel": {
+    "Brand representation": "Representación de Marcas",
+    "Financing for companies": "Financiamiento para empresas",
+    "Import and Export": "Importación y Exportación"
+  },
+  "startTxt": {
+    "title": "PRESENCIA INTERNACIONAL",
+    "text": "Desde nuestras oficinas en Wyoming (USA), Buenos Aires (Argentina), San Pablo (Brasil), Pekin (China) desplegamos nuestros servicios a todo el mercado internacional, contando con una vasta red de prestadores, socios de negocios y colaboradores, quienes constituyen junto con nuestro equipo profesional estable el verdadero diferencial corporativo."
+  },
+  "aboutus": {
+    "title": "Quienes somos",
+    "text1": "Somos una empresa de servicios especializada en el desarrollo de negocios internacionales. Ofrecemos soluciones e internacionalización a empresas que tienen como objetivo crecer a través del desarrollo de proveedores y mercados en el exterior.",
+    "text2": "Nuestra misión es transformar empresas locales en globales, focalizándonos en su crecimiento a largo plazo y acompañando a nuestros clientes en el proceso de internacionalización. Esto lo logramos gracias al diseño, organización, coordinación y seguimiento de gestiones y servicios, orientados a la expansión internacional.",
+    "text3": "Somos una empresa con una visión global y Espíritu emprendedor, focalizada en la calidad de nuestras relaciones, y con el objetivo de posicionarnos como un actor relevante de negocios internacionales."
+  },
+  "cardImg1": {
+    "title": "Importación y Exportación",
+    "text1": "Desde Magnetic compass contamos con una amplia experiencia en importación y exportación de productos, brindamos valor FOB de nuestros proveedores de confianza para realizar un comercio sustentable, contamos con acceso a diferentes ferias mundiales para poder insertar su producto en el mercado internacional. "
+  },
+  "cardImg2": {
+    "title": "Representación Internacional",
+    "text1": "Para empresas que buscan tercerizar la gestión comercial de sus operaciones con el exterior, nos especializamos en desarrollar la negociación internacional de importación y exportación. Gracias a nuestra trayectoria en desarrollo de negocios globales, brindamos la posibilidad de optimizar los términos comerciales negociados con clientes y proveedores del exterior.",
+    "text2": "Gracias a nuestra trayectoria en desarrollo de negocios globales, brindamos la posibilidad de optimizar los términos comerciales negociados con clientes y proveedores del exterior. De esta manera nos orientamos a consolidarnos como un socio estratégico con impacto positivo en los resultados económicos financieros de nuestros clientes."
+  },
+  "cardImg3": {
+    "title": "Financiamiento para empresas",
+    "text1": "Existen diferentes formas de obtener financiamiento. Las empresas argentinas pueden acceder a Programas de tasas subsidiadas o de aportes no reembolsables simplemente por presentar proyectos para seguir creciendo y/o innovando.",
+    "text2": "Hacemos calificar a la empresa en el programa que sea más accesible, armamos el proyecto estratégicamente, presentamos y gestionamos hasta su obtención.",
+    "text3": "Sumamos al financiamiento el Rol del Líder de proyecto: Nuestra misión es transformar empresas locales en globales, focalizándonos en su crecimiento a largo plazo y acompañando a nuestros clientes en el proceso de internacionalización. Esto lo logramos gracias al diseño, organización, coordinación y seguimiento de gestiones y servicios, orientados a la expansión internacional.",
+    "text4": "contribuimos a que los proyectos se concreten.",
+
+    "item1": "Capital de trabajo",
+    "item2": "Compra de bienes de capital",
+    "item3": "Compra de equipamiento, galpón o nave industrial",
+    "item4": "Traslado a un Parque Industrial",
+    "item5": "Capacitaciónes",
+    "item6": "Certificación de productos",
+    "item7": "Certificación de Normas de calidad en la gestión",
+    "item8": "Implementación de software",
+    "item9": "Desarrollo de software"
+  },
+  "cardImg4": {
+    "title": "Asesoramiento en comercio exterior",
+    "text1": "Somos una empresa especializada y dedicada al servicio de comercio exterior para emprendedores, Pymes, grandes empresas y organizaciones nacionales e internacionales, contamos con especialistas orientados a la gestión de importaciones y exportaciones.",
+    "text2": "Gracias a nuestra trayectoria y equipo multidisciplinario, brindamos soluciones en todos los aspectos aduaneros, comerciales, financieros y logísticos de comercio internacional."
+  },
+  "cardImg5": {
+    "title": "Certificaciones",
+    "text1": "Muchos de los productos que se fabrican en el país, se importan y/o se exportan requieren certificados emitidos por organismos nacionales Oficiales.",
+    "text2": "Gestionamos todas las certificaciones y brindamos asesoramiento integral a las empresas Fabricantes, Importadores, Exportadores y Despachantes de Aduana.",
+
+    "item1": "HALAL",
+    "item2": "ANMAT: Uso doméstico y Cosmética",
+    "item3": "INAL: Alimentos y envases",
+    "item4": "SENASA",
+    "item5": "Autopartes",
+    "item6": "Certificaciones por Convenios Internacionales",
+    "item7": "Seguridad eléctrica",
+    "item8": "Eficiencia Energética",
+    "item9": "Bicicletas: Niños, Adultos y Eléctricas",
+    "item10": "Seguridad en Juguetes",
+    "item11": "Colectores Solares",
+    "item12": "Productos Gráficos y Tintas",
+
+    "item13": "Pinturas, lacas y barnices",
+    "item14": "Pilas y Baterías",
+    "item15": "Telecomunicaciones (ENACOM)",
+    "item16": "Elementos de Protección personal",
+    "item17": "Metrología legal",
+    "item18": "DJCP",
+    "item19": "Bienes usados",
+    "item20": "Aceros y cables de acero Aluminio",
+    "item21": "Válvulas Industriales",
+    "item22": "GAS",
+    "item23": "Mobiliarios",
+    "item24": "Inscripción RUMP"
+  }
+}

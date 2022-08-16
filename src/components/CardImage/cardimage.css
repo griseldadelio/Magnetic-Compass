@@ -1,0 +1,37 @@
+.imgcard {
+  background-image: url('../../assets/expo.jpeg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.imgcard1 {
+  background-image: url('../../assets//RepresentacióndMarca.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.imgcard2 {
+  background-image: url('../../assets/financiamiento.jpeg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.imgcard3 {
+  background-image: url('../../assets/asesoria.jpeg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.lista-azul li {
+  list-style: none;
+}
+
+.lista-azul li::before {
+  content: '►';
+  color: blue;
+  display: inline-block;
+  width: 1em;
+  margin-left: -1em;
+  padding-right: 25px;
+}

@@ -1,0 +1,47 @@
+footer {
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+.main-footer {
+  color: aliceblue;
+  padding: 30px;
+}
+
+.sign {
+  background: #323b40;
+  overflow: hidden;
+  text-align: center;
+  height: 35px;
+  padding-top: 5px;
+  color: rgb(177, 189, 189);
+}
+
+.Icon {
+  color: #4d94f1;
+  font-size: 25px;
+}
+.Icon:hover {
+  color: #3481e7;
+}
+.Icon:focus {
+  border-bottom: 3px solid #3481e7;
+}
+
+.link {
+  display: inline-block;
+  height: 25px;
+  padding-bottom: 15px;
+  margin: 20px;
+  position: relative;
+  transition: 0.2s ease-in;
+  width: 30px;
+}
+.changepage {
+  margin-left: 5px;
+  text-decoration: none;
+  color: white;
+}
+.social-media {
+  margin-left: 15px;
+}

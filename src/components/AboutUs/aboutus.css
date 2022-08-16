@@ -1,0 +1,25 @@
+.bg-image-about {
+  background-image: url('../../assets/puerto.jpeg');
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  text-align: center;
+  position: relative;
+}
+.bg-image-about::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+.card {
+  border: none !important;
+  background-color: transparent !important;
+  color: white !important;
+  font-size: large;
+}
