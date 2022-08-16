@@ -49,7 +49,7 @@ export const CardImage = () => {
           </p>
           <Row>
             <Col>
-              <p className="text-justify px-3 lista-azul">
+              <div className="text-justify px-3 lista-azul">
                 <ul>
                   <li>{t('cardImg3.item1')}</li>
                   <li>{t('cardImg3.item2')}</li>
@@ -57,17 +57,17 @@ export const CardImage = () => {
                   <li>{t('cardImg3.item4')}</li>
                   <li>{t('cardImg3.item5')}</li>
                 </ul>
-              </p>
+              </div>
             </Col>
             <Col>
-              <p className="text-justify px-3 lista-azul">
+              <div className="text-justify px-3 lista-azul">
                 <ul>
                   <li>{t('cardImg3.item6')}</li>
                   <li>{t('cardImg3.item7')}</li>
                   <li>{t('cardImg3.item8')}</li>
                   <li>{t('cardImg3.item9')}</li>
                 </ul>
-              </p>
+              </div>
             </Col>
           </Row>
         </Col>
@@ -94,7 +94,7 @@ export const CardImage = () => {
           <p className="text-justify px-3">{t('cardImg5.text2')}</p>
           <Row>
             <Col>
-              <p className="text-justify px-3 lista-azul">
+              <div className="text-justify px-3 lista-azul">
                 <ul>
                   <li>{t('cardImg5.item1')} </li>
                   <li>{t('cardImg5.item2')}</li>
@@ -110,10 +110,10 @@ export const CardImage = () => {
                   <li>{t('cardImg5.item12')}</li>
                   <li>{t('cardImg5.item13')}</li>
                 </ul>
-              </p>
+              </div>
             </Col>
             <Col>
-              <p className="text-justify px-3 lista-azul">
+              <div className="text-justify px-3 lista-azul">
                 <ul>
                   <li>{t('cardImg5.item14')}</li>
                   <li>{t('cardImg5.item15')} </li>
@@ -129,7 +129,7 @@ export const CardImage = () => {
                   <li>{t('cardImg5.item25')}</li>
                   <li>{t('cardImg5.item26')}</li>
                 </ul>
-              </p>
+              </div>
             </Col>
           </Row>
         </Col>
