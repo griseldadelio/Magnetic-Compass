@@ -1,7 +1,7 @@
 import React from 'react';
 import Carousel from 'react-bootstrap/Carousel';
 import BarcoCarga from '../../assets/barcoCarga.jpg';
-import Representacion from '../../assets/representaciones';
+import Representacion from '../../assets/representaciones.jpg';
 import Businessman from '../../assets/businessman.jpg';
 import { useTranslation } from 'react-i18next';
 import './startImage.css';
