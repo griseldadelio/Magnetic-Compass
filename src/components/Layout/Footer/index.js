@@ -53,10 +53,18 @@ export const Footer = () => {
               </a>
             </div>
             <div className="social-media">
-              <a className="link" href="/">
+              <a
+                className="link"
+                href="https://www.linkedin.com/in/magnetic-compass/"
+                target="blank"
+              >
                 <Icon.Linkedin className="Icon" />
               </a>
-              <a className="link" href="/">
+              <a
+                className="link"
+                href="https://www.instagram.com/magneticcompassok/"
+                target="blank"
+              >
                 <Icon.Instagram className="Icon" />
               </a>
             </div>
