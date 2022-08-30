@@ -108,13 +108,13 @@ export const CardImage = () => {
                   <li>{t('cardImg5.item10')}</li>
                   <li>{t('cardImg5.item11')}</li>
                   <li>{t('cardImg5.item12')}</li>
-                  <li>{t('cardImg5.item13')}</li>
                 </ul>
               </div>
             </Col>
             <Col>
               <div className="text-justify px-3 lista-azul">
                 <ul>
+                  <li>{t('cardImg5.item13')}</li>
                   <li>{t('cardImg5.item14')}</li>
                   <li>{t('cardImg5.item15')} </li>
                   <li>{t('cardImg5.item16')}</li>
@@ -126,8 +126,6 @@ export const CardImage = () => {
                   <li>{t('cardImg5.item22')}</li>
                   <li>{t('cardImg5.item23')}</li>
                   <li>{t('cardImg5.item24')}</li>
-                  <li>{t('cardImg5.item25')}</li>
-                  <li>{t('cardImg5.item26')}</li>
                 </ul>
               </div>
             </Col>
