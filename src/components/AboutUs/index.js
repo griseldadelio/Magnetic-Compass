@@ -6,7 +6,7 @@ import './aboutus.css';
 export const AboutUs = () => {
   const [t] = useTranslation('global');
   return (
-    <div id="nosotros" className="bg-image-about ">
+    <div id="nosotros" className="bg-image-about">
       <Container>
         <Card>
           <Card.Body>

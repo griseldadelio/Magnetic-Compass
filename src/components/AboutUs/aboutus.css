@@ -22,4 +22,6 @@
   background-color: transparent !important;
   color: white !important;
   font-size: large;
+  min-height: 400px !important;
+  padding-top: 25px !important;
 }
