@@ -13,3 +13,8 @@ h1 {
 p {
   font-family: 'Roboto';
 }
+html,
+body {
+  max-width: 100% !important;
+  overflow-x: hidden !important;
+}

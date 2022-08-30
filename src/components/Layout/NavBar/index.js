@@ -50,19 +50,19 @@ export const NavBar = () => {
                   onClick={() => i18n.changeLanguage('es')}
                   href="#/action-2"
                 >
-                  🇪🇸 &nbsp; SPANISH
+                  🇪🇸 &nbsp; {t('navbar.spanish')}
                 </NavDropdown.Item>
                 <NavDropdown.Item
                   onClick={() => i18n.changeLanguage('en')}
                   href="#/action-1"
                 >
-                  🇬🇧 &nbsp; ENGLISH
+                  🇬🇧 &nbsp; {t('navbar.english')}
                 </NavDropdown.Item>
                 <NavDropdown.Item
                   onClick={() => i18n.changeLanguage('ch')}
                   href="#/action-3"
                 >
-                  🇨🇳 &nbsp; CHINESE
+                  🇨🇳 &nbsp; {t('navbar.chinese')}
                 </NavDropdown.Item>
               </NavDropdown>
             </Nav>

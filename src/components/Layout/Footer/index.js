@@ -9,7 +9,7 @@ export const Footer = () => {
     <footer id="contacto" className=" bg-dark">
       <Container className="main-footer bg-dark text-center">
         <Row>
-          <Col>
+          <Col className="mb-3">
             <Logo />
           </Col>
           <Col>

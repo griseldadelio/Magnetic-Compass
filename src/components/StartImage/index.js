@@ -14,11 +14,11 @@ export const StartImage = () => {
         <img
           className="d-block w-100 imgSize"
           src={BarcoCarga}
-          alt="First slide"
+          alt="Importacion y Exportacion"
         />
         <Carousel.Caption>
           <p>
-            <b>{t('carrousel.Import and Export')}</b>
+            <b className="wrap ">{t('carrousel.Import and Export')}</b>
           </p>
         </Carousel.Caption>
       </Carousel.Item>
@@ -26,11 +26,11 @@ export const StartImage = () => {
         <img
           className="d-block w-100 imgSize"
           src={Representacion}
-          alt="Second slide"
+          alt="Representacion de marcas"
         />
         <Carousel.Caption>
           <p>
-            <b>{t('carrousel.Brand representation')}</b>
+            <b className="wrap ">{t('carrousel.Brand representation')}</b>
           </p>
         </Carousel.Caption>
       </Carousel.Item>
@@ -38,11 +38,11 @@ export const StartImage = () => {
         <img
           className="d-block w-100 imgSize"
           src={Businessman}
-          alt="Third slide"
+          alt="Financiamiento para empresas"
         />
         <Carousel.Caption>
           <p>
-            <b>{t('carrousel.Financing for companies')}</b>
+            <b className="wrap ">{t('carrousel.Financing for companies')}</b>
           </p>
         </Carousel.Caption>
       </Carousel.Item>

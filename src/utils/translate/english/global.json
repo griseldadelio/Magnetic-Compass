@@ -3,7 +3,10 @@
     "Services": "Services",
     "About Us": "Abut Us",
     "Contact": "Contact",
-    "Language": "Language"
+    "Language": "Language",
+    "spanish": "Spanish",
+    "english": "English",
+    "chinese": "Chinese"
   },
   "carrousel": {
     "Brand representation": "Brand representation",
@@ -17,8 +20,7 @@
   "aboutus": {
     "title": "About Us",
     "text1": "We are a service company specialized in international business development. We offer solutions and internationalization to companies that aim to grow through the development of suppliers and markets abroad.",
-    "text2": "Our mission is to transform local companies into global ones, focusing on their long-term growth and accompanying our clients in the internationalization process. We achieve this through the design, organization, coordination and monitoring of management and services aimed at international expansion.",
-    "text3": "We are a company with a global vision and entrepreneurial spirit, focused on the quality of our relationships, and with the objective of positioning ourselves as a relevant player in international business."
+    "text2": "Our mission is to transform local companies into global ones, focusing on their long-term growth and accompanying our clients in the internationalization process. We achieve this through the design, organization, coordination and monitoring of management and services aimed at international expansion."
   },
   "cardImg1": {
     "title": "Import and Export",
@@ -49,7 +51,7 @@
   "cardImg4": {
     "title": "Foreign trade advisory services",
     "text1": "We are a company specialized and dedicated to foreign trade services for entrepreneurs, SMEs, large companies and national and international organizations, we have specialists oriented to the management of imports and exports.",
-    "text2": "Thanks to our experience and multidisciplinary team, we provide solutions in all customs, commercial, financial and logistical aspects of international trade."
+    "text2": "Thanks to our multidisciplinary team, we provide solutions in all customs, commercial, financial and logistical aspects of international trade."
   },
   "cardImg5": {
     "title": "Certifications",

@@ -6,10 +6,7 @@ import './aboutus.css';
 export const AboutUs = () => {
   const [t] = useTranslation('global');
   return (
-    <div
-      id="nosotros"
-      className="bg-image-about w-100 vh-100 d-flex justify-content-center align-items-center"
-    >
+    <div id="nosotros" className="bg-image-about ">
       <Container>
         <Card>
           <Card.Body>
@@ -19,7 +16,6 @@ export const AboutUs = () => {
             <b>
               <p>{t('aboutus.text1')}</p>
               <p>{t('aboutus.text2')}</p>
-              <p>{t('aboutus.text3')}</p>
             </b>
           </Card.Body>
         </Card>
