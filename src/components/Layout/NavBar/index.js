@@ -20,37 +20,31 @@ export const NavBar = () => {
       <Navbar
         className={colorChange ? 'navbar colorChange' : 'navbar'}
         collapseOnSelect
-        variant={colorChange ? 'light' : 'dark'}
         expand="lg"
+        variant="dark"
         fixed="top"
       >
         <Container>
-          <Navbar.Brand href="#home" className="ml-5">
+          <Navbar.Brand href="#home">
             <Logo />
           </Navbar.Brand>
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
-          <Navbar.Collapse id="responsive-navbar-nav">
-            <Nav className="mt-4 ms-5">
-              <Nav.Link href="/nosotros">
+          <Navbar.Collapse id="responsive-navbar-nav ">
+            <Nav className="mt-5 pt-3">
+              <Nav.Link className="text-white" href="#servicios">
+                <h4>{t('navbar.Services')}</h4>
+              </Nav.Link>
+              <Nav.Link className="text-white" href="#nosotros">
                 <h4>{t('navbar.About Us')}</h4>
               </Nav.Link>
-              <Nav.Link href="/seleccion">
-                <h4>{t('navbar.Selection')}</h4>
-              </Nav.Link>
-              <Nav.Link href="/evaluacion">
-                <h4>{t('navbar.Assessment')}</h4>
-              </Nav.Link>
-              <Nav.Link href="/capacitacion">
-                <h4>{t('navbar.Training')}</h4>
-              </Nav.Link>
-              <Nav.Link href="#contacto">
+              <Nav.Link className="text-white" href="#contacto">
                 <h4>{t('navbar.Contact')}</h4>
               </Nav.Link>
-
               <NavDropdown
-                id="collapsible-nav-dropdown"
+                id="nav-dropdown-dark-example"
                 title={t('navbar.Language')}
-                className="mt-1"
+                menuVariant="dark"
+                className="mt-1 "
               >
                 <NavDropdown.Item
                   onClick={() => i18n.changeLanguage('es')}
@@ -63,6 +57,12 @@ export const NavBar = () => {
                   href="#/action-1"
                 >
                   🇬🇧 &nbsp; {t('navbar.english')}
+                </NavDropdown.Item>
+                <NavDropdown.Item
+                  onClick={() => i18n.changeLanguage('ch')}
+                  href="#/action-3"
+                >
+                  🇨🇳 &nbsp; {t('navbar.chinese')}
                 </NavDropdown.Item>
               </NavDropdown>
             </Nav>

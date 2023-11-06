@@ -1,13 +1,13 @@
 import { Image } from 'react-bootstrap';
-import logo from '../../../assets/UnexTR.png';
+import logo from '../../../assets/logoTRBlanco.png';
 
 export const Logo = () => {
   return (
     <Image
       src={logo}
-      alt="Unex Talent consultora de RRHH"
-      width="250"
-      height="70"
+      alt="Magnetic Compass logo - comercio exterior"
+      width="210"
+      height="80"
     />
   );
 };
