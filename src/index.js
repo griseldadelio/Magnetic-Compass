@@ -5,7 +5,6 @@ import App from './App';
 
 import { I18nextProvider } from 'react-i18next';
 import i18next from 'i18next';
-import global_ch from './utils/translate/chinese/global.json';
 import global_en from './utils/translate/english/global.json';
 import global_es from './utils/translate/spanish/global.json';
 
@@ -18,9 +17,6 @@ i18next.init({
     },
     es: {
       global: global_es,
-    },
-    ch: {
-      global: global_ch,
     },
   },
 });

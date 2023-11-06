@@ -1,7 +1,15 @@
 .navbar {
   background-color: transparent;
+  filter: brightness(100%);
+  box-shadow: 1px 5px 14px 3px rgba(17, 17, 17, 0.3);
 }
 
 .navbar.colorChange {
-  background-color: #212529;
+  background-color: #ebf1ea;
+}
+.navbar-dark {
+  --bs-navbar-color: #ffff !important;
+}
+.navbar-light {
+  color: #000000 !important;
 }

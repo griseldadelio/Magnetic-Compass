@@ -1,87 +1,20 @@
 {
   "navbar": {
-    "Services": "Services",
     "About Us": "Abut Us",
+    "Selection": "Selection",
+    "Assessment": "Assessment",
+    "Training": "Training",
     "Contact": "Contact",
     "Language": "Language",
     "spanish": "Spanish",
-    "english": "English",
-    "chinese": "Chinese"
+    "english": "English"
   },
-  "carrousel": {
-    "Brand representation": "Brand representation",
-    "Financing for companies": "Financing for companies",
-    "Import and Export": "Import and Export"
+  "VideoInner": {
+    "text1": "Enabling you to thrive in ",
+    "text2": "a changing world"
   },
   "startTxt": {
     "title": "International Presence",
     "text": "From our offices in Florida (USA), Buenos Aires (Argentina), Sao Paulo (Brazil), Beijing (China) we deploy our services to the entire international market, counting on a vast network of service providers, business partners and collaborators, who together with our stable professional team constitute the true corporate differential."
-  },
-  "aboutus": {
-    "title": "About Us",
-    "text1": "We are a service company specialized in international business development. We offer solutions and internationalization to companies that aim to grow through the development of suppliers and markets abroad.",
-    "text2": "Our mission is to transform local companies into global ones, focusing on their long-term growth and accompanying our clients in the internationalization process. We achieve this through the design, organization, coordination and monitoring of management and services aimed at international expansion."
-  },
-  "cardImg1": {
-    "title": "Import and Export",
-    "text1": "From Magnetic compass we have extensive experience in importing and exporting products, we provide FOB value of our trusted suppliers to make a sustainable trade, we have access to different world fairs to insert your product in the international market. "
-  },
-  "cardImg2": {
-    "title": "International brand representation",
-    "text1": "For companies seeking to outsource the commercial management of their foreign operations, we specialize in developing international import and export negotiations.",
-    "text2": "Thanks to our experience in global business development, we offer the possibility of optimizing the commercial terms negotiated with clients and suppliers abroad. In this way, we aim to consolidate our position as a strategic partner with a positive impact on our clients' economic and financial results."
-  },
-  "cardImg3": {
-    "title": "Financing for companies",
-    "text1": "There are different ways to obtain financing. Argentine companies can access programs with subsidized rates or non-refundable contributions simply for submitting projects to continue growing and/or innovating.",
-    "text2": "We qualify the company in the program that is most accessible, strategically assemble the project, present and manage it until it is obtained.",
-    "text3": "We add to financing the Role of the Project Leader: Our mission is to transform local companies into global ones, focusing on their long-term growth and accompanying our clients in the internationalization process. We achieve this through the design, organization, coordination and monitoring of management and services aimed at international expansion.",
-    "text4": "We contribute to making projects a reality.",
-
-    "item1": "Working capital",
-    "item2": "Purchase of capital assets",
-    "item3": "Purchase of equipment, industrial building",
-    "item4": "Relocation to Industrial Park",
-    "item5": "Trainings",
-    "item6": "Product certification",
-    "item7": "Management Quality Standards Certification",
-    "item8": "Software implementation",
-    "item9": "Software development"
-  },
-  "cardImg4": {
-    "title": "Foreign trade advisory services",
-    "text1": "We are a company specialized and dedicated to foreign trade services for entrepreneurs, SMEs, large companies and national and international organizations, we have specialists oriented to the management of imports and exports.",
-    "text2": "Thanks to our multidisciplinary team, we provide solutions in all customs, commercial, financial and logistical aspects of international trade."
-  },
-  "cardImg5": {
-    "title": "Certifications",
-    "text1": "Many of the products manufactured in the country, imported and/or exported require certificates issued by official national agencies.",
-    "text2": "We manage all certifications and provide comprehensive advice to Manufacturers, Importers, Exporters and Customs Brokers.",
-
-    "item1": "HALAL",
-    "item2": "ANMAT: Household and Cosmetics",
-    "item3": "INAL: Food and packaging",
-    "item4": "SENASA",
-    "item5": "Autoparts",
-    "item6": "International Agreement Certifications",
-    "item7": "Electric safety",
-    "item8": "Energy Efficiency",
-    "item9": "Bicycles: Children, Adult and Electric",
-    "item10": "Safety in Toys",
-    "item11": "Solar Collectors",
-    "item12": "Graphic Products and Inks",
-
-    "item13": "Paints, lacquers and varnishes",
-    "item14": "Batteries",
-    "item15": "Telecommunications (ENACOM)",
-    "item16": "Personal Protection Equipment",
-    "item17": "Legal metrology",
-    "item18": "DJCP",
-    "item19": "Used assets",
-    "item20": "Steel and steel wire Aluminum",
-    "item21": "Industrial Valves",
-    "item22": "GAS",
-    "item23": "Furniture",
-    "item24": "Registration RUMP"
   }
 }

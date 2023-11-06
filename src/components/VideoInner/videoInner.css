@@ -1,0 +1,57 @@
+/* VideoInner component*/
+
+.hero_inner {
+  width: 100%;
+  height: 100vh;
+  position: relative;
+  overflow: hidden;
+}
+
+.video_inner {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  background-size: cover;
+  object-fit: cover;
+  filter: brightness(54%) saturate(105%);
+}
+
+.title_inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+  text-align: center;
+  margin-top: 300px;
+  color: whitesmoke;
+}
+
+/* Bootstrap Button */
+.btn {
+  border-radius: none !important;
+  width: 200px;
+  height: 50px;
+  font-style: bold;
+}
+
+.btn-green {
+  color: #fff;
+  background-color: rgb(117, 185, 62) !important;
+  border-color: rgb(85, 149, 33) !important;
+}
+.btn-green:hover {
+  background-color: rgb(148, 211, 65) !important;
+  border-color: rgb(85, 149, 33) !important;
+}
+.btn-white {
+  color: #fff;
+  border-color: rgb(177, 184, 172);
+}
+.btn-green:hover {
+  background-color: rgb(148, 211, 65);
+  border-color: rgb(75, 155, 9);
+}

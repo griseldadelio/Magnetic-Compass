@@ -2,9 +2,10 @@ footer {
   bottom: 0;
   left: 0;
   right: 0;
+  background-color: #ebf1ea !important;
 }
 .main-footer {
-  color: aliceblue;
+  color: rgb(51, 53, 54);
   padding: 30px;
 }
 
@@ -18,14 +19,14 @@ footer {
 }
 
 .Icon {
-  color: #4d94f1;
+  color: #0f9948;
   font-size: 25px;
 }
 .Icon:hover {
-  color: #3481e7;
+  color: #17f880;
 }
 .Icon:focus {
-  border-bottom: 3px solid #3481e7;
+  border-bottom: 3px solid #05e06b;
 }
 
 .link {
@@ -40,7 +41,7 @@ footer {
 .changepage {
   margin-left: 5px;
   text-decoration: none;
-  color: white;
+  color: #323b40;
 }
 .social-media {
   margin-left: 15px;
